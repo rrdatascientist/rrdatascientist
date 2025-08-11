@@ -9,10 +9,10 @@ Currently focused on building production ML systems that drive cost optimization
 
 ### Recent Highlights
 
-- **Business Impact**: Delivered ₹10+ crores in cost optimization through automated ML systems and infrastructure improvements  
-- **Scale & Reliability**: Built ML infrastructure serving 50M+ users with 99.7% uptime and sub-second response times  
+- **Business Impact**: Delivered ₹5+ crores in cost optimization through automated ML systems and infrastructure improvements  
+- **Scale & Reliability**: Built ML infrastructure serving 10M+ users with 99.7% uptime and sub-second response times  
 - **Performance Optimization**: Reduced model training time by 45% while cutting cloud infrastructure costs by 40%  
-- **Team Leadership**: Led cross-functional teams of 15+ engineers and data scientists across multiple concurrent projects  
+- **Team Leadership**: Led cross-functional teams of 6+ engineers and data scientists across multiple concurrent projects  
 
 ---
 
@@ -56,7 +56,7 @@ Industry Speaking: Presenting at conferences and meetups about practical MLOps i
 Mentorship: Actively mentoring junior data scientists and ML engineers in both technical skills and career development
 
 Professional Experience Highlights
-Leadership Experience: 6+ years managing technical teams and driving strategic ML initiatives across multiple industries
+Leadership Experience: 5+ years managing technical teams and driving strategic ML initiatives across multiple industries
 
 Production Systems: Architected and deployed ML systems processing terabytes of data daily with enterprise-grade reliability requirements
 
@@ -64,7 +64,7 @@ Business Impact: Consistently delivered projects resulting in multi-crore cost s
 
 Cross-functional Collaboration: Extensive experience working with product, engineering, business, and executive teams to align technical solutions with business objectives
 
-📂 Technical Projects Portfolio
+Technical Projects Portfolio
 My repositories showcase end-to-end ML engineering projects with emphasis on:
 
 Production-ready code with comprehensive testing and documentation
@@ -84,5 +84,5 @@ Email: rrdatascientist@gmail.com
 
 Location: London, UK (Open to relocation opportunities in India)
 
-Currently seeking senior ML engineering leadership roles where I can drive technical strategy, build high-performing teams, and deliver significant business impact through advanced machine learning solutions.
+Currently seeking ML engineering roles where I can drive technical strategy, build high-performing teams, and deliver significant business impact through advanced machine learning solutions.
 Open to discussing technical advisory opportunities and strategic consulting engagements.
