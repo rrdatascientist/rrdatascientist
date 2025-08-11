@@ -71,11 +71,10 @@ Scalable Architectures – Designed for enterprise deployment
 Real-world Problem Solving – Solutions with measurable, lasting outcomes
 
 Professional Network
-LinkedIn: linkedin.com/in/rrdatascientist
-
-Technical Blog: medium.com/@rrdatascientist
-
-Email: rrdatascientist@gmail.com
+## Let's Connect
+[LinkedIn](https://linkedin.com/in/rrdatascientist)  
+[Medium](https://medium.com/@rrdatascientist)  
+[Email](mailto:rrdatascientist@gmail.com)
 
 Location: London, UK (Open to relocation to India)
 
