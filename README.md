@@ -1,24 +1,20 @@
-# Richard 
-
+# Richard
 ## Data Scientist & ML Engineer
+"Transforming business challenges into scalable machine learning solutions with measurable impact."
 
-I transform business challenges into scalable machine learning solutions with a proven track record of delivering measurable impact.  
 Currently focused on building production ML systems that drive cost optimization and serve millions of users across healthcare, fintech, and enterprise sectors.
 
----
+Recent Highlights
+Business Impact: Delivered ₹5+ crores in cost optimization through automated ML systems and infrastructure improvements
 
-### Recent Highlights
+Scale & Reliability: Built ML infrastructure serving 5M+ users with 99.7% uptime and sub-second response times
 
-- **Business Impact**: Delivered ₹5+ crores in cost optimization through automated ML systems and infrastructure improvements  
-- **Scale & Reliability**: Built ML infrastructure serving 10M+ users with 99.7% uptime and sub-second response times  
-- **Performance Optimization**: Reduced model training time by 45% while cutting cloud infrastructure costs by 40%  
-- **Team Leadership**: Led cross-functional teams of 6+ engineers and data scientists across multiple concurrent projects  
+Performance Optimization: Reduced model training time by 45% while cutting cloud infrastructure costs by 40%
 
----
+Team Leadership: Led cross-functional teams of 6+ engineers and data scientists across multiple concurrent projects
 
-### Technical Expertise
+Technical Expertise
 
-```python
 class DataScienceLeader:
     def __init__(self):
         self.core_expertise = [
@@ -40,40 +36,39 @@ class DataScienceLeader:
         }
         
         self.quantified_impact = {
-            "cost_savings_delivered": "₹10+ crores",
-            "users_served": "50M+",
+            "cost_savings_delivered": "₹5+ crores",
+            "users_served": "5M+",
             "team_members_led": "15+",
             "system_uptime": "99.7%",
             "model_performance_improvement": "45%"
         }
+        
 Current Focus Areas
-Enterprise MLOps Platforms: Building next-generation MLOps infrastructure specifically designed for Indian enterprise requirements and regulatory compliance
+Enterprise MLOps Platforms – Building next-gen MLOps infrastructure tailored for Indian enterprise needs & compliance
 
-Technical Writing: Publishing insights about production ML engineering, cost optimization strategies, and scalable architecture patterns
+Technical Writing – Publishing insights on production ML, cost optimization, and scalable architectures
 
-Industry Speaking: Presenting at conferences and meetups about practical MLOps implementation and team leadership in data science
+Industry Speaking – Presenting at conferences & meetups on MLOps and data science leadership
 
-Mentorship: Actively mentoring junior data scientists and ML engineers in both technical skills and career development
+Mentorship – Guiding junior data scientists & ML engineers in technical skills and career growth
 
 Professional Experience Highlights
-Leadership Experience: 5+ years managing technical teams and driving strategic ML initiatives across multiple industries
+Leadership – 5+ years managing technical teams and driving strategic ML initiatives across multiple industries
 
-Production Systems: Architected and deployed ML systems processing terabytes of data daily with enterprise-grade reliability requirements
+Production Systems – Architected ML systems processing terabytes of data daily with enterprise-grade reliability
 
-Business Impact: Consistently delivered projects resulting in multi-crore cost savings and revenue generation through data-driven solutions
+Business Impact – Delivered multi-crore cost savings and revenue through data-driven solutions
 
-Cross-functional Collaboration: Extensive experience working with product, engineering, business, and executive teams to align technical solutions with business objectives
+Cross-functional Collaboration – Partnered with product, engineering, business, and executive teams to align tech with business
 
 Technical Projects Portfolio
-My repositories showcase end-to-end ML engineering projects with emphasis on:
+Production-ready code – Comprehensive testing & documentation
 
-Production-ready code with comprehensive testing and documentation
+Business Impact Analysis – ROI-focused ML project execution
 
-Business impact quantification and ROI analysis
+Scalable Architectures – Designed for enterprise deployment
 
-Scalable architecture designed for enterprise deployment
-
-Real-world problem solving with measurable outcomes
+Real-world Problem Solving – Solutions with measurable, lasting outcomes
 
 Professional Network
 LinkedIn: linkedin.com/in/rrdatascientist
@@ -82,7 +77,7 @@ Technical Blog: medium.com/@rrdatascientist
 
 Email: rrdatascientist@gmail.com
 
-Location: London, UK (Open to relocation opportunities in India)
+Location: London, UK (Open to relocation to India)
 
-Currently seeking ML engineering roles where I can drive technical strategy, build high-performing teams, and deliver significant business impact through advanced machine learning solutions.
-Open to discussing technical advisory opportunities and strategic consulting engagements.
+Currently Seeking: ML engineering roles to drive technical strategy, build high-performing teams, and deliver business impact through advanced machine learning solutions.
+Open to technical advisory and strategic consulting opportunities.
